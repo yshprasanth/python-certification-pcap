@@ -18,4 +18,4 @@ fname=input("enter first name: ")
 lname=input("enter last name: ")
 
 print("fname: %s" %(fname), "lname: %s" %(lname), sep="-", end=" !!\n")
-print("fname: {}, lname: {}".format(fname, lname)*3, sep="//", end=" !!")
+print("fname: {}, lname: {}".format(fname, lname)*3, sep="//", end=" !!\n")
